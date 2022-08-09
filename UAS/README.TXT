@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: UAS
+PURPOSE OF PROJECT: Untuk jawaban UAS Algoritma dengan Greenfoot dan database
+VERSION or DATE: 9 Agustus 2022
+NPM : 1214063
+CLASS : D4TI/1C
+AUTHORS: Shinta Raudita Octora Damayanti

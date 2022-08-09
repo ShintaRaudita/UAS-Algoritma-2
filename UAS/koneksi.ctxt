@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=koneksi
+comment0.text=\r\n\ rite\ a\ description\ of\ class\ koneksi\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ koneksi\ gak\ jadi\ dipakai\r\n
+comment1.params=
+comment1.target=koneksi()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ koneksi.\r\n\ \r\n
+comment2.params=
+comment2.target=com.mysql.jdbc.Connection\ getkoneksi()
+numComments=3
